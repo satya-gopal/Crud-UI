@@ -4,7 +4,7 @@
 This is a **React + Vite** project for a CRUD application. Follow the instructions below to set up and run the project.
 
 ## Project Link 
-https://bejewelled-paprenjak-209c73.netlify.app/login
+bejewelled-paprenjak-209c73.netlify.app
 
 ## 🚀 Getting Started
 
